@@ -1,4 +1,4 @@
-### Hi, I'm shaopu!
+
 <!--
 **SongShaopu1998/SongShaopu1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
