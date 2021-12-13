@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   - **UIUC CS 225 (Fall 2020, only videos)**
   - **Stanford CS 106L (Autumn 2019), with the 2020 Spring final project version**
   
-- 🔭 I’m currently working on **Berkeley CS 61C (Fall 2020)**, and prepare to learn **Berkeley CS 170 (Fall 2021)** after that to prepare for some interview.
+- 🔭 I’m currently working on **Berkeley CS 61C (Fall 2021)**, and prepare to learn **Berkeley CS 170 (Fall 2021)** after that to prepare for some interview.
 - 🛠️ **CMU 15445 (Fall 2021)** after that? Well, I don't know if I have enough time. I need sometime to go for the **Leetcode**.
 
 - The *self-learning notes* are all posted on my [Blog](https://shaopu.tech/) (in Chinese). All of the projects are now kept as Github private repositories.
