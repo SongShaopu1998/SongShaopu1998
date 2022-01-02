@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on **Berkeley CS 61C (Fall 2021)**----Week **7**, and prepare to learn **Berkeley CS 170 (Fall 2021)** after that to prepare for some interview.
 - 🛠️ **CMU 15445 (Fall 2021)** after that? Well, I don't know if I have enough time. I need sometime to go for the **Leetcode**.
 
-- The *self-learning **notes** * are all posted on my [Blog](https://shaopu.tech/) (in Chinese). All of the projects/assignments/labs/hws are now kept as Github private repositories.
+- The *self-learning notes* are all posted on my [Blog](https://shaopu.tech/) (in Chinese). All of the projects/assignments/labs/hws are now kept as Github private repositories.
