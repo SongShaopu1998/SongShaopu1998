@@ -26,6 +26,6 @@ Here are some ideas to get you started:
   - **UIUC CS 225 (Fall 2020)** ✔️ **Videos**
   - **Stanford CS 106L (Autumn 2019)** ✔️ **Videos** ✔️ **Discs** ✔️ **Assignments (with the 2020 Spring final project version)**
   
-- 🔭 I’m currently working on **Berkeley CS 61C (Fall 2021)**----Week **12**.
+- 🔭 I’m currently working on **Berkeley CS 61C (Fall 2021)**----Week **13**.
 
 - The *self-learning notes* are all posted on my [Blog](https://shaopu.tech/) (in Chinese). All of the projects/assignments/labs/hws are now kept as Github private repositories.
