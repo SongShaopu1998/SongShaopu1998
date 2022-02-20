@@ -25,7 +25,8 @@ Here are some ideas to get you started:
   - **Stanford CS 106X  (Winter 2017 & Autumn 2018)** ✔️ **Videos (Win17)** ✔️ **Discs (Fa18)** ✔️ **Assignments (Win17 & Fa18)**
   - **UIUC CS 225 (Fall 2020)** ✔️ **Videos**
   - **Stanford CS 106L (Autumn 2019)** ✔️ **Videos** ✔️ **Discs** ✔️ **Assignments (with the 2020 Spring final project version)**
+  - **Berkeley CS 61C (Fall 2021)** ✔️ **Videos** ✔️ **Discs** ✔️ **Labs (with fa20 lab10 & lab11)** ✔️ **Projs (with fa20 proj4)**
   
-- 🔭 I’m currently working on **Berkeley CS 61C (Fall 2021)**----Week **14**.
+- 🔭 I’m currently working on **CS 170**, also, **Leetcode** (lol...).
 
 - The *self-learning notes* are all posted on my [Blog](https://shaopu.tech/) (in Chinese). All of the projects/assignments/labs/hws are now kept as Github private repositories.
