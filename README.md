@@ -27,6 +27,6 @@ Here are some ideas to get you started:
   - **Stanford CS 106L (Autumn 2019)** ✔️ **Videos** ✔️ **Discs** ✔️ **Assignments (with the 2020 Spring final project version)**
   - **Berkeley CS 61C (Fall 2021)** ✔️ **Videos** ✔️ **Discs** ✔️ **Labs (with Fa20 lab10 & lab11)** ✔️ **Projs (with Fa20 proj4)**
   
-- 🔭 I’m currently working on **CS 170**, also, **Leetcode** (lol...).
+- 🔭 I’m currently working on **CS 15445**, also, **Leetcode** (lol...).
 
 - The *self-learning notes* are all posted on my [Blog](https://shaopu.tech/) (in Chinese). All of the projects/assignments/labs/hws are now kept as Github private repositories.
