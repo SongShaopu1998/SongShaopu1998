@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongShaopu1998&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongShaopu1998&layout=compact&theme=gruvbox&card_width=445)](https://github.com/anuraghazra/github-readme-stats) -->
 
-- 🔐 An incoming master student at UC Berkeley, currently deferred at home, trying to get things right to become a software engineer.
+- 🔐 An incoming master student at UC Berkeley, currently deferred at home.
 - 🤨 Why? less interested in **EE** major things.
 
 - 🌱 I’m currently self-learning open-source CS courses. The ones I have finished learning (lectures & projects & labs) include: 
