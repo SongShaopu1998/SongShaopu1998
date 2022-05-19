@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongShaopu1998&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongShaopu1998&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongShaopu1998&layout=compact&theme=gruvbox&card_width=445)](https://github.com/anuraghazra/github-readme-stats) -->
 
 - 🔐 An incoming master student at UC Berkeley, currently deferred at home.
@@ -26,7 +26,6 @@ Here are some ideas to get you started:
   - **UIUC CS 225 (Fall 2020)** ✔️ **Videos**
   - **Stanford CS 106L (Autumn 2019)** ✔️ **Videos** ✔️ **Discs** ✔️ **Assignments (with the 2020 Spring final project version)**
   - **Berkeley CS 61C (Fall 2021)** ✔️ **Videos** ✔️ **Discs** ✔️ **Labs (with Fa20 lab10 & lab11)** ✔️ **Projs (with Fa20 proj4)**
-  
-- 🔭 I’m currently working on **CMU 15445**, also, **Leetcode** (lol...).
+  - **CMU 15445 (Fall 2021)** ✔️ **Videos** ✔️ **Notes** ✔️ **Projs**
 
 - The *self-learning notes* are all posted on my [Blog](https://shaopu.tech/) (in Chinese). All of the projects/assignments/labs/hws are now kept as Github private repositories.
