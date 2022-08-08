@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongShaopu1998&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongShaopu1998&layout=compact&theme=gruvbox&card_width=445)](https://github.com/anuraghazra/github-readme-stats) -->
 
-- 🔐 An incoming master student at UC Berkeley.
+- 🔐 A EECS master student at UC Berkeley.
 
-- 🌱 I’m currently self-learning open-source CS courses. The ones I have finished learning (lectures & projects & labs) include: 
+- 🌱 I have finished learning (lectures & projects & labs) some Open-Source courses, including: 
   - **Berkeley CS 61A (Fall 2020)** ✔️ **Videos** ✔️ **Discs** ✔️ **Labs** ✔️ **Hws** ✔️ **Projs**
   - **Stanford CS 106X  (Winter 2017 & Autumn 2018)** ✔️ **Videos (Win17)** ✔️ **Discs (Fa18)** ✔️ **Assignments (Win17 & Fa18)**
   - **UIUC CS 225 (Fall 2020)** ✔️ **Videos**
