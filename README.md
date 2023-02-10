@@ -17,15 +17,15 @@ Here are some ideas to get you started:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SongShaopu1998&count_private=true&show_icons=true&theme=onedark&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SongShaopu1998&layout=compact&theme=gruvbox&card_width=445)](https://github.com/anuraghazra/github-readme-stats) -->
 
-- 🔐 A EECS master student at UC Berkeley.
+<!-- -- 🔐 A EECS master student at UC Berkeley.
 
-<!--- 🌱 I have finished learning (lectures & projects & labs) some Open-Source courses, including: 
+ 🌱 I have finished learning (lectures & projects & labs) some Open-Source courses, including: 
   - **Berkeley CS 61A (Fall 2020)** ✔️ **Videos** ✔️ **Discs** ✔️ **Labs** ✔️ **Hws** ✔️ **Projs**
   - **Stanford CS 106X  (Winter 2017 & Autumn 2018)** ✔️ **Videos (Win17)** ✔️ **Discs (Fa18)** ✔️ **Assignments (Win17 & Fa18)**
   - **UIUC CS 225 (Fall 2020)** ✔️ **Videos**
   - **Stanford CS 106L (Autumn 2019)** ✔️ **Videos** ✔️ **Discs** ✔️ **Assignments (with the 2020 Spring final project version)**
   - **Berkeley CS 61C (Fall 2021)** ✔️ **Videos** ✔️ **Discs** ✔️ **Labs (with Fa20 lab10 & lab11)** ✔️ **Projs (with Fa20 proj4)**
   - **CMU 15445 (Fall 2021)** ✔️ **Videos** ✔️ **Notes** ✔️ **Projs**
-  - **MIT 6.S081 (Fall 2020)** -> Currently learning-->
+  - **MIT 6.S081 (Fall 2020)** -> Currently learning
 
-- The *self-learning notes* are all posted on my [Blog](https://shaopu.tech/) (in Chinese). All of the projects/assignments/labs/hws are now kept as Github private repositories.
+- The *self-learning notes* are all posted on my [Blog](https://shaopu.tech/) (in Chinese). All of the projects/assignments/labs/hws are now kept as Github private repositories.-->
