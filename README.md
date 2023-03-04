@@ -26,6 +26,10 @@ Here are some ideas to get you started:
   - **Stanford CS 106L (Autumn 2019)** ✔️ **Videos** ✔️ **Discs** ✔️ **Assignments (with the 2020 Spring final project version)**
   - **Berkeley CS 61C (Fall 2021)** ✔️ **Videos** ✔️ **Discs** ✔️ **Labs (with Fa20 lab10 & lab11)** ✔️ **Projs (with Fa20 proj4)**
   - **CMU 15445 (Fall 2021)** ✔️ **Videos** ✔️ **Notes** ✔️ **Projs**
-  - **MIT 6.S081 (Fall 2020)** -> Currently learning
+  - **MIT 6.S081 (Fall 2020)** -> Currently learning -->
 
-- The *self-learning notes* are all posted on my [Blog](https://shaopu.tech/) (in Chinese). All of the projects/assignments/labs/hws are now kept as Github private repositories.-->
+- **Expected graduation**: Dec, 2023.
+- **Interests**: C++, Infrastructure
+- **Language**: C++, C, Python, RISC-V
+- **Courses**: Computer Architecture, Database System, Operating System, Data Science
+- Currently focused on **Distributed System** learning. Some of the *self-learning notes* are posted on my [Blog](https://shaopu.tech/) (in Chinese). All of the projects/assignments/labs/hws are now kept as Github private repositories.
