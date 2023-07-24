@@ -29,7 +29,6 @@ Here are some ideas to get you started:
   - **MIT 6.S081 (Fall 2020)** -> Currently learning -->
 
 - **Expected graduation**: Dec, 2023.
-- **Interests**: C++, Infrastructure
 - **Language**: C++, C, Python, Go, RISC-V
-- **Courses**: Computer Architecture, Database System, Operating System, Data Science
-- Currently focused on **Distributed System** learning. Some of the *self-learning notes* are posted on my [Blog](https://shaopu.tech/) (in Chinese). All of the projects/assignments/labs/hws are now kept as Github private repositories.
+- **Courses**: Computer Architecture, Database System, Distributed System, Operating System, Data Science, Artificial Intelligence
+- Some of the *self-learning notes* are posted on my [Blog](https://shaopu.tech/) (in Chinese). All of the projects/assignments/labs/hws are now kept as Github private repositories.
