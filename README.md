@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 
 - **Expected graduation**: Dec, 2023.
 - **Language**: C++, C, Python, Go, RISC-V
-- **Courses**: Computer Architecture, Database System, Distributed System, Operating System, Data Science, Artificial Intelligence
-- Some of the *self-learning notes* are posted on my [Blog](https://shaopu.tech/) (in Chinese). All of the projects/assignments/labs/hws are now kept as Github private repositories.
+- **Interests**: Database System, Distributed System, Operating System, Artificial Intelligence
+- My [Blog](https://shaopu.tech/) (in Chinese).
