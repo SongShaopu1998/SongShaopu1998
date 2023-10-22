@@ -29,6 +29,6 @@ Here are some ideas to get you started:
   - **MIT 6.S081 (Fall 2020)** -> Currently learning -->
 
 - **Expected graduation**: Dec, 2023.
-- **Language**: C++, C, Python, Go, Rust, RISC-V
+- **Language**: C++, C, Python, Go, RISC-V
 - **Interests**: Database System, Distributed System, Operating System, Artificial Intelligence
 - My [Blog](https://shaopu.tech/) (in Chinese).
